@@ -1,0 +1,25 @@
+{
+  "name": "tenzies-game",
+  "version": "1.0.0",
+  "description": "a silly game built for my react practice purposes",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilikewatermelon/tenzies-game.git"
+  },
+  "author": "april z.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ilikewatermelon/tenzies-game/issues"
+  },
+  "homepage": "https://github.com/ilikewatermelon/tenzies-game#readme",
+  "dependencies": {
+    "nanoid": "^4.0.0",
+    "react": "^18.2.0",
+    "react-confetti": "^6.1.0",
+    "react-dom": "^18.2.0"
+  }
+}
